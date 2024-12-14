@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/*This program is completely done by Rajesh
+/*This program is completely done by Puspita
 * */
 public class Calculator_exception_example {
     public static void main(String[] args) throws Exception {
